@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "581781348636",
+    "firebase_url": "https://mybilling-a945d.firebaseio.com",
+    "project_id": "mybilling-a945d",
+    "storage_bucket": "mybilling-a945d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581781348636:android:8618b3868711981d8e5ad9",
+        "android_client_info": {
+          "package_name": "com.example.mybilling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581781348636-9r86f2fk89shsi5nlev06orep3r12qff.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mybilling",
+            "certificate_hash": "8b0354caba09c4ad181e87599cb2b7ad407230d1"
+          }
+        },
+        {
+          "client_id": "581781348636-nipm2r6t0e1ojdg16d04alkev6h686gm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4kJn7xZXLQtSV_AhqB3sQm_36fH1HFTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581781348636-nipm2r6t0e1ojdg16d04alkev6h686gm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
